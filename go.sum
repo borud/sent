@@ -1,0 +1,13 @@
+github.com/jessevdk/go-flags v1.4.0 h1:4IU2WS7AumrZ/40jfhf4QVDMsQwqA7VEHozFRrGARJA=
+github.com/jessevdk/go-flags v1.4.0/go.mod h1:4FA24M0QyGHXBuZZK/XkWh8h0e1EYbRYJSGM75WSRxI=
+github.com/logrusorgru/aurora v0.0.0-20190803045625-94edacc10f9b h1:PMbSa9CgaiQR9NLlUTwKi+7aeLl3GG5JX5ERJxfQ3IE=
+github.com/logrusorgru/aurora v0.0.0-20190803045625-94edacc10f9b/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
+github.com/neurosnap/sentences v1.0.6/go.mod h1:pg1IapvYpWCJJm/Etxeh0+gtMf1rI1STY9S7eUCPbDc=
+github.com/tensorflow/tensorflow v1.14.0 h1:g0W2+f/RybcvmrTjPLTwXkfr/BsDGUd8FKT6ZzojOMo=
+github.com/tensorflow/tensorflow v1.14.0/go.mod h1:itOSERT4trABok4UOoG+X4BoKds9F3rIsySdn+Lvu90=
+github.com/vmarkovtsev/BiDiSentiment v0.0.0-20180316183447-5b762528524d h1:ZNhyswf7/2dOIhDJtjpEq/YnoVXwTIStVuVEWTX+r/o=
+github.com/vmarkovtsev/BiDiSentiment v0.0.0-20180316183447-5b762528524d/go.mod h1:liKYk4E7uAcsysy7ba9lA11cBMVyfgLHTPgRs/V0mDQ=
+gopkg.in/neurosnap/sentences.v1 v1.0.6 h1:v7ElyP020iEZQONyLld3fHILHWOPs+ntzuQTNPkul8E=
+gopkg.in/neurosnap/sentences.v1 v1.0.6/go.mod h1:YlK+SN+fLQZj+kY3r8DkGDhDr91+S3JmTb5LSxFRQo0=
+gopkg.in/vmarkovtsev/BiDiSentiment.v1 v1.0.0-20180316061023-3aa38b36bf9a h1:9lpaYfU6JFCk9hzk6ccsbMu/1/WEwZIPcnCCrjwlc6o=
+gopkg.in/vmarkovtsev/BiDiSentiment.v1 v1.0.0-20180316061023-3aa38b36bf9a/go.mod h1:CGBSPZicJmnv2dLqeOUkcvQhWVOfRENoRTsdspc0JZ0=
